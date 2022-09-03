@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxqxpxx
+- 👋 Hi, I’m Ahmed Abdul Fatah
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning clean archetecture and design 
 - 💞️ I’m looking to collaborate on new and interesting ideas / problems
